@@ -304,3 +304,13 @@ header nav a {
 #spacer2 {
   margin: 0px 0px 20px 0px;
 }
+
+.image-animation-container {
+  position: relative;
+}
+
+.about-image:hover {
+  opacity: 0.2;
+  transition: 0.5s;
+  backface-visibility: hidden;
+}
