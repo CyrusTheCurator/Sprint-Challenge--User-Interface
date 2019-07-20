@@ -279,7 +279,7 @@ header nav a {
   margin: 0px 0px 11px 0px;
 }
 
-#about-container {
+.content-blurb-container {
   border-bottom: black 1px dashed;
   margin: 20px 0px 0px 0px;
   padding: 0px 0px 20px 20px;
@@ -290,4 +290,14 @@ header nav a {
   border-bottom: 1px dashed black;
   margin-right: 15px;
   padding: 0px 0px 21px 0px;
+}
+
+#lets-work-container {
+  border-bottom: black 1px dashed;
+  margin: 20px 0px 0px 0px;
+  padding: 0px 0px 20px 20px;
+}
+
+#spacer {
+  margin: 0px 0px 20px 0px;
 }
